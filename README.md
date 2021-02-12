@@ -8,7 +8,7 @@ Estou fazendo um bootcamp na escola Labenu atualmente, para estar apta na atuaç
 
 👶🏻 Natural de Alegrete, RS, Brasil . 
 
-🏖 Morando em Florianópolis, RS, Brasil.
+🏖 Morando em Florianópolis, SC, Brasil.
 
 
 
