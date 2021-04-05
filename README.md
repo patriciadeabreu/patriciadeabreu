@@ -20,7 +20,7 @@ Estou fazendo um bootcamp na escola Labenu atualmente, para estar apta na atuaç
 
 ### 🤓 O que estudo atualmente?
 
-No momento estou aprofundando os estudos em Java e Springboot.
+No momento estou aprofundando os estudos em Java e Spring boot.
 
 
 
