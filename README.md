@@ -1,6 +1,6 @@
 # Hello world 🖐
 
-Me chamo Patrícia de Abreu, sou formada em direito e estou em transição de carreira para essa área, que é minha paixão desde a adolescência, que é a T.I. 
+Me chamo Patrícia de Abreu, sou formada em direito e estou em transição de carreira para a área que é minha paixão desde a adolescência, que é a T.I. 
 
 Estou fazendo um bootcamp na escola Labenu atualmente, para estar apta na atuação como desenvolvedora web full stack.
 
