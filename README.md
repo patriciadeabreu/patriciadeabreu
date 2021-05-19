@@ -2,13 +2,15 @@
 
 Me chamo Patrícia de Abreu, sou formada em direito e estou em transição de carreira para a área que é minha paixão desde a adolescência, que é a T.I. 
 
-Estou fazendo um bootcamp na escola Labenu atualmente, para estar apta na atuação como desenvolvedora web full stack.
+Fiz um bootcamp de 1000h, a fim de aprender a base para poder atuar no back-end ou no front-end.
+
+Atualmente curso a graduação de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
 
 
 👶🏻 Natural de Alegrete, RS, Brasil . 
 
-🏖 Morando em Florianópolis, SC, Brasil.
+🏖 Morando em Arroio do Tigre, RS, Brasil.
 
 
 
@@ -23,6 +25,10 @@ Estou fazendo um bootcamp na escola Labenu atualmente, para estar apta na atuaç
 No momento estou aprofundando os estudos em Java e Spring boot.
 
 
+### 🤓 Qual cargo ocupo atualmente?
+
+
+Atualmente faço estágio na Agência Colab.
 
 ### ⚡️ Tecnologias e ferramentas 
 
