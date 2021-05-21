@@ -28,7 +28,7 @@ No momento estou aprofundando os estudos em Java e Spring boot.
 ### 🤓 Qual cargo ocupo atualmente?
 
 
-Atualmente faço estágio na Agência Colab.
+Atualmente faço estágio no Coletivo Codivas.
 
 ### ⚡️ Tecnologias e ferramentas 
 
