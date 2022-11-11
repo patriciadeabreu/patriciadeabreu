@@ -1,8 +1,7 @@
 # Hello world 🖐
 
-Me chamo Patrícia de Abreu, sou formada em direito e estou em transição de carreira para a área que é minha paixão desde a adolescência, que é a T.I. 
+Me chamo Patrícia de Abreu, sou QA Analyst. 
 
-Fiz um bootcamp de 1000h, a fim de aprender a base para poder atuar no back-end ou no front-end.
 
 Atualmente curso a graduação de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
@@ -22,16 +21,7 @@ Atualmente curso a graduação de Análise e Desenvolvimento de Sistemas na Univ
 
 ### 🤓 O que estudo atualmente?
 
-No momento estou aprofundando os estudos em Java e Spring boot.
-
-
-### 🤓 Qual cargo ocupo atualmente?
-
-
-Atualmente faço estágio no Coletivo Codivas.
-
-### ⚡️ Tecnologias e ferramentas 
-
+Backend
 
 
 
