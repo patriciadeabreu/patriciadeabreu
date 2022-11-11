@@ -10,7 +10,7 @@ Atualmente curso a graduação de Análise e Desenvolvimento de Sistemas na Univ
 
 👶🏻 Natural de Alegrete, RS, Brasil . 
 
-🏖 Morando em Arroio do Tigre, RS, Brasil.
+🏖 Morando em Santa Maria, RS, Brasil.
 
 
 
