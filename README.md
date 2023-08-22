@@ -21,7 +21,7 @@ Atualmente curso a graduação de Análise e Desenvolvimento de Sistemas na Univ
 
 ### 🤓 O que estudo atualmente?
 
-Backend
+Automação com cypress e javascript.
 
 
 
